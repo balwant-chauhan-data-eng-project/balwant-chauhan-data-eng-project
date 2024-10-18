@@ -4,29 +4,28 @@
 
 😄 My pronouns are: **He/His/Him**
 
-🔭  🧑‍🎓 I am pursuing BSc(IT) and currently learning Data Engineering (AWS/AZURE)  
+# 🔭  🧑‍🎓 I am pursuing BSc(IT) and currently learning Data Engineering (AWS/AZURE)  
 &nbsp;  
-&nbsp;  
-👯 I'm looking for full-time internship opportunities as a data engineer  
-💬 I'm looking to collaborate and create some cool content that we can share with the community  
-🤘 You can find various data engineering resources and POCs on my profile  
+           👯 I'm looking for full-time internship opportunities as a data engineer  
+           💬 I'm looking to collaborate and create some cool content that we can share with the community  
+           🤘 You can find various data engineering resources and POCs on my profile  
 
-🧑🏻🌱 I am currently learning  
+# 🧑🏻🌱 I am currently learning  
 &nbsp;  
-📚 How to build data pipelines  
-📚 How to optimize data pipelines  
-📚 How to make streaming pipelines  
+            📚 How to build data pipelines  
+            📚 How to optimize data pipelines  
+            📚 How to make streaming pipelines  
 
-👨‍💻 Here are my Open Projects so far: I keep building projects for my best practices, here are some  
+# 👨‍💻 Here are my Open Projects so far: I keep building projects for my best practices, here are some  
 &nbsp;  
-⚫ [Zillow Data Pipeline Project on AWS](https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline)  
-⚫ [IMDB Data Scraping](https://github.com/balwant-chauhan-data-eng-project/IMDB-Scrapping)  
-⚫ [Real-Time Streaming Pipeline](https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-)  
-⚫ [Azure Data Pipeline (Medallion Architecture)](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline)  
+           ⚫ [Zillow Data Pipeline Project on AWS](https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline)  
+           ⚫ [IMDB Data Scraping](https://github.com/balwant-chauhan-data-eng-project/IMDB-Scrapping)  
+           ⚫ [Real-Time Streaming Pipeline](https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-)  
+           ⚫ [Azure Data Pipeline (Medallion Architecture)](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline)  
 
-🎓 My Certifications and Courses  
+# 🎓 My Certifications and Courses  
 &nbsp;  
-⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+          ⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)    
 
 # Connect with me:  
 &nbsp;  
