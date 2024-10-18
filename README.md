@@ -1,6 +1,6 @@
-# About Me
+#👋 Hello, I am **Balwant Chauhan**
 
-👋 Hello, I am **Balwant Chauhan**
+# About Me
 
 ## Personal Information
 
