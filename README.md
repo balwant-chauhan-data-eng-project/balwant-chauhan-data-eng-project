@@ -31,7 +31,7 @@
 # Connect with me:  
 &nbsp;  
 [![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/balwant-chauhan-501641272/)    
-[![Gmail](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_128px.png](mailto:balwantc070@gmail.com)
+[![Gmail](https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png)](mailto:balwantc070@gmail.com)
 
 # Languages and Tools:
 <div align="left">
