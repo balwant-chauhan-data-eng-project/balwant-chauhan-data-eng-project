@@ -1,38 +1,36 @@
 # Hello, I am Balwant Chauhan 👋
 
-# About Me 
+## About Me 
 
 😄 My pronouns are: **He/His/Him**
 
-# 🔭  🧑‍🎓 I am pursuing BSc(IT) and currently learning Data Engineering (AWS/AZURE)  
-&nbsp;  
-           👯 I'm looking for full-time internship opportunities as a data engineer  
-           💬 I'm looking to collaborate and create some cool content that we can share with the community  
-           🤘 You can find various data engineering resources and POCs on my profile  
+👯 I'm looking for full-time internship opportunities as a data engineer  
+💬 I'm looking to collaborate and create some cool content that we can share with the community  
+🤘 You can find various data engineering resources and POCs on my profile  
 
-# 🧑🏻🌱 I am currently learning  
-&nbsp;  
-            📚 How to build data pipelines  
-            📚 How to optimize data pipelines  
-            📚 How to make streaming pipelines  
+## I am currently learning  
 
-# 👨‍💻 Here are my Open Projects so far: I keep building projects for my best practices, here are some  
-&nbsp;  
-           ⚫ [Zillow Data Pipeline Project on AWS](https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline)  
-           ⚫ [IMDB Data Scraping](https://github.com/balwant-chauhan-data-eng-project/IMDB-Scrapping)  
-           ⚫ [Real-Time Streaming Pipeline](https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-)  
-           ⚫ [Azure Data Pipeline (Medallion Architecture)](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline)  
+📚 How to build data pipelines  
+📚 How to optimize data pipelines  
+📚 How to make streaming pipelines  
 
-# 🎓 My Certifications and Courses  
-&nbsp;  
-          ⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)    
+## Here are my Open Projects so far  
 
-# Connect with me:  
-&nbsp;  
+I keep building projects for my best practices; here are some:  
+⚫ [Zillow Data Pipeline Project on AWS](https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline)  
+⚫ [IMDB Data Scraping](https://github.com/balwant-chauhan-data-eng-project/IMDB-Scrapping)  
+⚫ [Real-Time Streaming Pipeline on AWS](https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-)  
+⚫ [Azure Data Pipeline (Medallion Architecture)](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline)  
+
+## My Certifications and Courses  
+
+⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)    
+
+## Connect with me:  
+
 [![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/balwant-chauhan-501641272/)    [![Gmail](https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png)](mailto:balwantc070@gmail.com)
 
-
-# Languages and Tools:
+## Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
@@ -53,9 +51,20 @@
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="apacheairflow logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="hadoop logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=80&id=hYoELNwniGhi&format=png" height="40" alt="hadoop logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=80&id=LwQEs9KnDgIo&format=png" height="40" alt="hadoop logo" />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/32/749/png-transparent-apache-hive-apache-hadoop-big-data-data-warehouse-apache-spark-others-honey-bee-logo-flower-thumbnail.png" height="40" alt="hadoop logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Apache_ZooKeeper_logo.svg/1199px-Apache_ZooKeeper_logo.svg.png?20210417120550" height="40" alt="hadoop logo" />
 </div>
 
- 
+<div align="center">
+  <img height="200" src=" "  />
+</div>
+
 
 <div align="center">
   <img height="200" src=" "  />
