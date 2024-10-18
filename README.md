@@ -4,15 +4,15 @@
 
 😄 My pronouns are: **He/His/Him**
 
-            👯 I'm looking for full-time internship opportunities as a data engineer  
-            💬 I'm looking to collaborate and create some cool content that we can share with the community  
-            🤘 You can find various data engineering resources and POCs on my profile  
+  👯 I'm looking for full-time internship opportunities as a data engineer  
+  💬 I'm looking to collaborate and create some cool content that we can share with the community  
+  🤘 You can find various data engineering resources and POCs on my profile  
 
 ## I am currently learning  
 
-           📚 How to build data pipelines  
-           📚 How to optimize data pipelines  
-           📚 How to make streaming pipelines  
+  📚 How to build data pipelines  
+  📚 How to optimize data pipelines  
+  📚 How to make streaming pipelines  
 
 ## Here are my Open Projects so far  
 
@@ -24,7 +24,7 @@ I keep building projects for my best practices; here are some:
 
 ## My Certifications and Courses  
 
-          ⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)    
+⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)    
 
 ## Connect with me:  
 
