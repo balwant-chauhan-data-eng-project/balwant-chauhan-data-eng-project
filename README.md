@@ -1,6 +1,6 @@
 # Hello, I am Balwant Chauhan 👋
 
-## About Me 
+## Thanks for stopping by. Here's a little bit about myself 
 
 😄 My pronouns are: **He/His/Him**
 
