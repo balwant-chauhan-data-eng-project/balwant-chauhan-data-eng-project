@@ -44,25 +44,7 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
+ 
 
 <div align="center">
   <img height="200" src=" "  />
