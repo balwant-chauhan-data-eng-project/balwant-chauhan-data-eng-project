@@ -1,41 +1,39 @@
-#👋 Hello, I am **Balwant Chauhan**
+# Hello, I am Balwant Chauhan 👋
 
-# About Me
+# About Me 
 
-## Personal Information
+😄 My pronouns are: **He/His/Him**
 
-- **Pronouns:** He/His/Him
-- **Education:** Currently pursuing BSc (IT)
-- **Learning:** Data Engineering (AWS/Azure)
-- **Looking For:** Full-time internship opportunities as a data engineer
-- **Collaboration:** Open to creating cool content for the community
-- **Projects:** Various data engineering resources and POCs can be found on my profile
+🔭  🧑‍🎓 I am pursuing BSc(IT) and currently learning Data Engineering (AWS/AZURE)  
+&nbsp;  
+&nbsp;  
+👯 I'm looking for full-time internship opportunities as a data engineer  
+💬 I'm looking to collaborate and create some cool content that we can share with the community  
+🤘 You can find various data engineering resources and POCs on my profile  
 
-## Learning Goals
+🧑🏻🌱 I am currently learning  
+&nbsp;  
+📚 How to build data pipelines  
+📚 How to optimize data pipelines  
+📚 How to make streaming pipelines  
 
-- 📚 How to build data pipelines
-- 📚 How to optimize data pipelines
-- 📚 How to make streaming pipelines
+👨‍💻 Here are my Open Projects so far: I keep building projects for my best practices, here are some  
+&nbsp;  
+⚫ [Zillow Data Pipeline Project on AWS](https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline)  
+⚫ [IMDB Data Scraping](https://github.com/balwant-chauhan-data-eng-project/IMDB-Scrapping)  
+⚫ [Real-Time Streaming Pipeline](https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-)  
+⚫ [Azure Data Pipeline (Medallion Architecture)](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline)  
 
-## Open Projects
+🎓 My Certifications and Courses  
+&nbsp;  
+⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
 
-I keep building projects for best practices. Here are some:
+# Connect with me:  
+&nbsp;  
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/balwant-chauhan-501641272/)  
+[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg)](mailto:balwantc070@gmail.com)
 
-- ⚫ [Zillow Data Pipeline Project on AWS](https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline)
-- ⚫ [IMDB Data Scraping](https://github.com/balwant-chauhan-data-eng-project/IMDB-Scrapping)
-- ⚫ [Real-Time Streaming Pipeline](https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-)
-- ⚫ [Azure Data Pipeline (Medallion Architecture)](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline)
-
-## Certifications and Courses
-
-- ⚫ Microsoft Certified: Azure Data Engineer Associate
-
-## Connect with Me
-
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/balwant-chauhan-501641272/)
-
-## Languages and Tools
-
+# Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
