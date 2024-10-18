@@ -4,27 +4,27 @@
 
 😄 My pronouns are: **He/His/Him**
 
-👯 I'm looking for full-time internship opportunities as a data engineer  
-💬 I'm looking to collaborate and create some cool content that we can share with the community  
-🤘 You can find various data engineering resources and POCs on my profile  
+            👯 I'm looking for full-time internship opportunities as a data engineer  
+            💬 I'm looking to collaborate and create some cool content that we can share with the community  
+            🤘 You can find various data engineering resources and POCs on my profile  
 
 ## I am currently learning  
 
-📚 How to build data pipelines  
-📚 How to optimize data pipelines  
-📚 How to make streaming pipelines  
+           📚 How to build data pipelines  
+           📚 How to optimize data pipelines  
+           📚 How to make streaming pipelines  
 
 ## Here are my Open Projects so far  
 
 I keep building projects for my best practices; here are some:  
-⚫ [Zillow Data Pipeline Project on AWS](https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline)  
-⚫ [IMDB Data Scraping](https://github.com/balwant-chauhan-data-eng-project/IMDB-Scrapping)  
-⚫ [Real-Time Streaming Pipeline on AWS](https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-)  
-⚫ [Azure Data Pipeline (Medallion Architecture)](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline)  
+          ⚫ [Zillow Data Pipeline Project on AWS](https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline)  
+          ⚫ [IMDB Data Scraping](https://github.com/balwant-chauhan-data-eng-project/IMDB-Scrapping)  
+          ⚫ [Real-Time Streaming Pipeline on AWS](https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-)  
+          ⚫ [Azure Data Pipeline (Medallion Architecture)](https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline)  
 
 ## My Certifications and Courses  
 
-⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)    
+          ⚫ [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/balwantchauhan-7169/credentials/2193e07270a1f8d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)    
 
 ## Connect with me:  
 
@@ -36,7 +36,7 @@ I keep building projects for my best practices; here are some:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
+  <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" height="40" alt="amazonwebservices logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
@@ -61,15 +61,7 @@ I keep building projects for my best practices; here are some:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Apache_ZooKeeper_logo.svg/1199px-Apache_ZooKeeper_logo.svg.png?20210417120550" height="40" alt="hadoop logo" />
 </div>
 
-<div align="center">
-  <img height="200" src=" "  />
-</div>
-
-
-<div align="center">
-  <img height="200" src=" "  />
-</div>
-
+ 
  
 
  
